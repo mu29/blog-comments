@@ -1,6 +1,3 @@
 {
-  "origins": [
-    "http://yeoubi.net,
-    "https://yeoubi.net"
-  ]
+  "origins": ["https://yeoubi.net"]
 }
